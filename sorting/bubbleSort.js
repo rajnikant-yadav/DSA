@@ -1,3 +1,4 @@
+// Bubble sort
 function bubbleSort(array) {
     const n = array.length
   
